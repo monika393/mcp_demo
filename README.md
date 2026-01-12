@@ -201,5 +201,3 @@ Registry of MCP servers and integrations.
 🔗 https://github.com/cline/mcp-marketplace
 
 
-**Typical REST flow:**
-
